@@ -1,3 +1,6 @@
+Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
+[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)
+
 # Smart Device for Structural Self-Sensing Carbon Fiber Based Composites 
 
 This repo contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
@@ -9,15 +12,8 @@ This repo contains the PCB Gerber files for a smart device able to connect to se
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+
 <br />
-<br />
-
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
-
 <br>
 
 ## Author
