@@ -23,6 +23,7 @@ This repo contains the PCB Gerber files for a smart device able to connect to se
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
 </p>
 
+<br>
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
