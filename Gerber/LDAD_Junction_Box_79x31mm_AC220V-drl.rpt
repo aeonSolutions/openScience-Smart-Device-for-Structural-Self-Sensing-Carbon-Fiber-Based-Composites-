@@ -1,0 +1,30 @@
+Drill report for LDAD_Junction_Box_79x31mm_AC220V.kicad_pcb
+Created on 11/26/2022 5:41:15 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'LDAD_Junction_Box_79x31mm_AC220V-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (4 holes)
+    T2  0.400mm  0.0157"  (178 holes)
+    T3  0.650mm  0.0256"  (8 holes)
+    T4  0.800mm  0.0315"  (2 holes)
+    T5  1.000mm  0.0394"  (10 holes)
+    T6  1.010mm  0.0398"  (2 holes)
+    T7  1.300mm  0.0512"  (11 holes)
+    T8  1.520mm  0.0598"  (2 holes)
+
+    Total plated holes count 217
+
+
+Drill file 'LDAD_Junction_Box_79x31mm_AC220V-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (5 holes)
+
+    Total unplated holes count 5
