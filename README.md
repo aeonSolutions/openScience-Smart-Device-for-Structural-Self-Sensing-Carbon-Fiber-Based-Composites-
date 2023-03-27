@@ -1,7 +1,7 @@
 [Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
 [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)  >>  Smart Device for Structural Self-Sensing Carbon Fiber Based Composites
 
-# Smart Device for Structural Self-Sensing Carbon Fiber Based Composites 
+# A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites 
 
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
