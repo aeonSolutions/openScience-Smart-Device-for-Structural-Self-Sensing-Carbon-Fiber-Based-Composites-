@@ -55,7 +55,7 @@ The experimental datasets and (early) analysis files can be found on this datave
 
 <br>
 
-This repo contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
+This repository contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
