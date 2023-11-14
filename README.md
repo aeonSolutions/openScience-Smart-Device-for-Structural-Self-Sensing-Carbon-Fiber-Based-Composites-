@@ -10,6 +10,8 @@ Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Sc
 Last update 14-11-2023
 </div>
 
+
+
 # A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites 
 
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
@@ -23,6 +25,17 @@ Last update 14-11-2023
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
+
+
+
+
+## Miguel Tomás<sup>1*</sup>, Said Jalali<sup>2</sup>, Kiera Tabatha<sup>3</sup>
+<sup>1,3</sup> Department of Computer Sciences, Universidad Alcalá, Madrid, Spain <br>
+<sup>2</sup> Civil Engineering Department, University of Minho, 4800 Guimarães, Portugal
+
+<div align="justify"> 
+
+## Abstract
 The self-sensing ability of materials, in particular carbon fiber polymer composites (SSCFPC), is a must-have requirement when designing a structural monitoring
 network for remote assessment of structural serviceability. This work presents a study using an Artificial Deep Neural Network (ADNN) where is evaluated the electrical resistance (R) output of specimens subjected to an unchanged deformation state of 2,86% strain for prolonged periods of time. 
 
@@ -30,10 +43,22 @@ Six ADNN architectures are evaluated with varying numbers of neurons on pre-defi
 
 The optimal ADNN architecture is found among six proposed architectures and for each of the four SSCFPC mixtures. Results show the proposed model architectures are able to predict values of R with greater accuracy than traditional regression mathematical methods when traditional statistical coefficients are used. However, when analyzing data in a time-series manner results show further research is needed to achieve optimal accuracy results. The analysis presented focused on the structural monitoring network infrastructure and hardware electronics compatibility for further development of this type of SSCFPC as a self-sensing composite material with the ability of automatic calibration and suitable for real-time data acquisition and artificial intelligence modeling.
 
-This smart electronics is available on the Journal Structural Health Monitoring website. Anyone can read the publication here:
-https://doi.org/10.1177/14759217231170001
+<br>
 
-The experimental datasets and (early) analysis files can be found on this dataverse: https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
+**Keywords:** Carbon Fiber Composites, Edge Computing, Machine Learning, Self-Sensing, Stress Relaxation, Temperature dependence
+
+#
+**Suggested Citation**
+[Tomás M](https://orcid.org/0000-0002-5910-5179), [Jalali S](https://orcid.org/0000-0003-1234-1825), Tabatha K. A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics. Structural Health Monitoring. 2023;0(0). [doi:10.1177/14759217231170001](https://doi.org/10.1177/14759217231170001)
+
+#
+
+**Status:**  published   **date:** 26-05-2023  *Corresponding author: [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
+**short URL address to this document here on GitHub**: https://tinyurl.com/ValidationDataOrigins
+
+<br>
+
+The experimental datasets and (early) analysis files can be found on this dataverse: <br> https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
 
 <br>
 
