@@ -47,15 +47,34 @@ The optimal ADNN architecture is found among six proposed architectures and for 
 
 #
 
-**Status:**  published   **date:** 26-05-2023  *Corresponding author: [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
+**Status:**  published &nbsp;  **Date:** 26-05-2023  &nbsp; ***Corresponding author:** [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
 **short URL address to this document here on GitHub**: https://tinyurl.com/SmartCarbonFiberComposites
-<br>
-
-The experimental datasets and (early) analysis files can be found on this dataverse: <br> https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
 
 <br>
 
-This repository contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
+**Data Availability**<br>
+Data used to support the findings of this study are available for anyone to download and use on the following dataverse: https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites. PCB electronics hardware design KiCad files are available on GitHub with a Creative Commons License: https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/tree/main
+ 
+<br>
+
+**Declaration of Competing Interest**<br>
+To this date, the author declares to have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+<br>
+
+**About the Author**<br>
+Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/
+
+<br>
+
+**A final statement about Mental Health in Science**<br>
+It is found recurrently on the internet news and comments about another scientific researcher, in particular junior and medior researchers, going through some kind of mental health difficulties in particular those associated with sensory overload events. Promoted by abusive usage of wireless devices, assembled or modified to actuate at a distance and invisible, causing harm to a victim’s neurobiology. This is an old area of knowledge, that now needs to be openly discussed and commented, in a peaceful constructive way towards identification of solutions to all abusive usages of wireless frequency waves (radiation or vibration) in electronic devices. Open solutions are the correct path toward safety in usage of all things related to such technologies. Be knowledgeable to stay safe.  
+
+<br>
+<br>
+
+# Smart Structural Monitoring Hardware Electronics
+This repository contains the PCB Gerber files and the circuit schematics for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
