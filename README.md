@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" height="300">
+</p>
+
 [Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
 [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)  >>  Smart Device for Structural Self-Sensing Carbon Fiber Based Composites
 
