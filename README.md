@@ -2,18 +2,6 @@
    <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/self_sensing_publication.png" height="300">
 </p>
 
-[Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
-[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)  >>  Smart Device for Structural Self-Sensing Carbon Fiber Based Composites
-
-<div align="right">
-Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> <br>
-Last update 14-11-2023
-</div>
-
-
-
-# A Smart Device for Structural Self-Sensing Carbon Fiber-Based Composites 
-
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
@@ -25,9 +13,15 @@ Last update 14-11-2023
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
+[Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
+[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)  >>  Smart Device for Structural Self-Sensing Carbon Fiber Based Composites
 
+<div align="right">
+Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> <br>
+Last update 14-11-2023
+</div>
 
-
+# A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics
 
 ## Miguel Tomás<sup>1*</sup>, Said Jalali<sup>2</sup>, Kiera Tabatha<sup>3</sup>
 <sup>1,3</sup> Department of Computer Sciences, Universidad Alcalá, Madrid, Spain <br>
@@ -54,8 +48,7 @@ The optimal ADNN architecture is found among six proposed architectures and for 
 #
 
 **Status:**  published   **date:** 26-05-2023  *Corresponding author: [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
-**short URL address to this document here on GitHub**: https://tinyurl.com/ValidationDataOrigins
-
+**short URL address to this document here on GitHub**: https://tinyurl.com/SmartCarbonFiberComposites
 <br>
 
 The experimental datasets and (early) analysis files can be found on this dataverse: <br> https://dataverse.harvard.edu/dataverse/selfSensingCarbonfiberComposites#  
