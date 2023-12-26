@@ -17,8 +17,8 @@
 [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)  >>  Smart Device for Structural Self-Sensing Carbon Fiber Based Composites
 
 <div align="right">
-Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> <br>
-Last update 14-11-2023
+Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> | <a href="https://github-com.translate.goog/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+Last update 26-12-2023
 </div>
 
 # A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics
@@ -87,7 +87,7 @@ This repository contains the PCB Gerber files and the circuit schematics for a s
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 
 <br />
-<br>
+<br />
 
 ## Author
 
@@ -97,34 +97,45 @@ You can get in touch with me on my LinkedIn Profile:
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
 
+<a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
+</p>
 
-<br />
 
-### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+### Make a donation on PayPal
+Make a donation on PayPal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
-<br>
+### Support all these open hardware projects and become a GitHub sponsor  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
+# 
 
-<br />
-<br />
-
-______________________________________________________________________________________________________________________________
 ### License
 
-Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics solutions for open-hardware development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
