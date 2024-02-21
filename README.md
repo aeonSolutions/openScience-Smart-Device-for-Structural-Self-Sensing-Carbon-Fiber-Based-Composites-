@@ -43,7 +43,7 @@ The optimal ADNN architecture is found among six proposed architectures and for 
 
 #
 **Suggested Citation**
-[Tomás M](https://orcid.org/0000-0002-5910-5179), [Jalali S](https://orcid.org/0000-0003-1234-1825), Tabatha K. A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics. Structural Health Monitoring. 2023;0(0). [doi:10.1177/14759217231170001](https://doi.org/10.1177/14759217231170001)
+[Tomás M.](https://orcid.org/0000-0002-5910-5179), [Jalali S.](https://orcid.org/0000-0003-1234-1825), Tabatha K. A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics. J. [Structural Health Monitoring](https://doi.org/10.1177/14759217231170001). 2024; 23(2) : 750-775.  [doi:10.1177/14759217231170001](https://doi.org/10.1177/14759217231170001)
 
 #
 
