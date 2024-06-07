@@ -63,7 +63,7 @@ To this date, the author declares to have no known competing financial interests
 <br>
 
 **About the Author**<br>
-Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/. Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer reviewed journals.
+Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/. Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.
 
 <br>
 
@@ -74,7 +74,7 @@ It is found recurrently on the internet news and comments about another scientif
 <br>
 
 # Smart Structural Monitoring Hardware Electronics
-This repository contains the PCB Gerber files and the circuit schematics for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
+This repository contains the PCB Gerber files and the circuit schematics for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring.  View the the revision history of the hardware electronics [here]().
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
@@ -104,7 +104,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design files I provide here are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/migueltomas">
