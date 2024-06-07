@@ -74,7 +74,7 @@ It is found recurrently on the internet news and comments about another scientif
 <br>
 
 # Smart Structural Monitoring Hardware Electronics
-This repository contains the PCB Gerber files and the circuit schematics for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring.  View the the revision history of the hardware electronics [here]().
+This repository contains the PCB Gerber files and the circuit schematics for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring.  View the revision history of the hardware electronics [here](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/wiki/Revision-History).
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
