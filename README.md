@@ -18,7 +18,7 @@
 
 <div align="right">
 Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> | <a href="https://github-com.translate.goog/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 26-12-2023
+Last update 07-06-2024
 </div>
 
 # A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics
